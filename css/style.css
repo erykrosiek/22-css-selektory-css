@@ -1,0 +1,11 @@
+p {
+    color:aqua;
+}
+
+span {
+    background-color: blue;
+}
+
+h1 + h3 {
+    color: blueviolet;
+}
